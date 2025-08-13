@@ -1,0 +1,28 @@
+{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    margin: 50px;
+}
+h1{
+    border: 2px solid black;
+    padding: 20px;
+    margin: 15px;
+
+    /100dvw ocupa 100% da tela/
+}
+
+div{
+    width: 1000px;
+}
+
+
+.tituloSite{  /refereciando uma classe/
+    font-size: 40px;
+}
+
+#escolaProgramadores{ /refereciando um id*/
+    color: rgba(red, green, blue, alpha);
+}
